@@ -8,5 +8,5 @@ cmake -S . -B build -G "MinGW Makefiles"
 echo Building project...
 cmake --build build
 
-echo Done! Executable is in build/lab_4.exe
+echo Done! Executable is in build
 pause

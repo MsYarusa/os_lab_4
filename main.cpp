@@ -98,7 +98,7 @@ int open_and_config_port(const std::string& portName) {
 
 int main() {
     std::string portName;
-    std::cout << "Enter Serial Port (e.g. COM3 or /dev/ttyUSB0): ";
+    std::cout << "Enter Serial Port (e.g. COM2 or /dev/pts/2): ";
     std::cin >> portName;
 
     std::vector<double> hour_buffer;

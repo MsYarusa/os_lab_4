@@ -9,4 +9,4 @@ cmake -S . -B build
 echo "Building project..."
 cmake --build build
 
-echo "Done! Executable is in build/lab_4"
+echo "Done! Executable is in build"
